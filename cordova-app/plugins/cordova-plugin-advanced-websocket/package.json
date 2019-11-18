@@ -1,0 +1,56 @@
+{
+  "_from": "cordova-plugin-advanced-websocket",
+  "_id": "cordova-plugin-advanced-websocket@1.1.5",
+  "_inBundle": false,
+  "_integrity": "sha1-pxBlZw7N2bSyr50FrVUiI9y0ci0=",
+  "_location": "/cordova-plugin-advanced-websocket",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-advanced-websocket",
+    "name": "cordova-plugin-advanced-websocket",
+    "escapedName": "cordova-plugin-advanced-websocket",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npm.taobao.org/cordova-plugin-advanced-websocket/download/cordova-plugin-advanced-websocket-1.1.5.tgz",
+  "_shasum": "a71065670ecdd9b4b2af9d05ad552223dcb4722d",
+  "_spec": "cordova-plugin-advanced-websocket",
+  "_where": "D:\\frontCode\\cordovaVueDemo\\cordova-app",
+  "author": {
+    "name": "HomeControl AS"
+  },
+  "bugs": {
+    "url": "https://github.com/HomeControlAS/cordova-plugin-advanced-websocket/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-advanced-websocket",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "deprecated": false,
+  "description": "Cordova Plugin for using WebSockets",
+  "homepage": "https://github.com/HomeControlAS/cordova-plugin-advanced-websocket#readme",
+  "keywords": [
+    "cordova",
+    "websocket",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "license": "MIT",
+  "name": "cordova-plugin-advanced-websocket",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HomeControlAS/cordova-plugin-advanced-websocket.git"
+  },
+  "version": "1.1.5"
+}
